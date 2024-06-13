@@ -1,6 +1,6 @@
 # SceneBuilderCPT
 
-Programs that allows you to register and login credentials to load a Github webpage
+Programs that allows you to register and login with your credentials to load a Github webpage
 
 ## Resources
 https://www.youtube.com/watch?v=hcM-R-YOKkQ
