@@ -1,7 +1,5 @@
 package application;
 
-import java.io.IOException;
-
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
@@ -14,9 +12,9 @@ import javafx.stage.Stage;
  * The main class that manages the register, login, and webview code
  */
 public class Main extends Application{
-
 	/**
 	 * Initializes and displays the stages using the layouts in the FXML files
+	 * @param stage The stage being passed in
 	 */
 	@Override
 	public void start(Stage stage) {
