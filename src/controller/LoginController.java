@@ -58,7 +58,7 @@ public class LoginController {
 	/**
 	 * Handles the login button and checks to see if username and password are correct
 	 * @param event The action triggered by user
-	 * @throws IOException HOW DO WE COMMENT THIS?????
+	 * @throws IOException
 	 */
 	public void loginButtonPressed(ActionEvent event) throws IOException {
 
