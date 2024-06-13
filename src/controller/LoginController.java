@@ -84,7 +84,7 @@ public class LoginController {
 
 	}
 
-//// EXTRA CODE THAT WORKS TO SOLEY SWITCH SCENES without credentials (Initial test code)
+//// EXTRA CODE THAT WORKS TO SOLELY SWITCH SCENES without credentials (Initial test code)
 //public void switchToSceneWebView(ActionEvent event) throws IOException {
 //Parent root = FXMLLoader.load(getClass().getResource("/view/SceneWebView.fxml"));
 //stage = (Stage)((Node)event.getSource()).getScene().getWindow();
